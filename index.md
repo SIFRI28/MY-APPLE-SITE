@@ -1,37 +1,103 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SIFRI28/MY-APPLE-SITE/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="style.css" />
+        <title>Apple (France)</title>
+        <link rel="shortcut icon" type="image/png" href="images/image_large.png"/>
+    </head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <body>
+    	<div class='header'>
+          <div>
+        
+        <ul class="haut">
+        	
+        	<li>Mac</li>
+        	<li>iPad</li>
+        	<li>iPhone</li>
+            <li>Watch</li>
+            <li>TV</li>
+            <li>Music</li>
+            <li>Assistance</li>
 
-### Markdown
+        </ul>
+        
+        </div>
+    </div>
+    
+<div class='xcontainer'>
+    <h2 id='x'>L’iPhone XR à partir de 639 €.</h2>
+    <h2 id='x'>L’iPhone XS à partir de 939 €.</h2>
+    <h3 id='xhello'>Échangez votre iPhone actuel contre <br /> un nouveau modèle.</h3>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+     <a href="https://www.youtube.com/channel/UCq5IlI9YT-Mopm6KrrXJ7DA?view_as=subscriber" title="Vous ne le regreterez pas !" target="_blank">Acheter l’iPhone XR > </a>
+     <a href="https://www.youtube.com/channel/UCq5IlI9YT-Mopm6KrrXJ7DA?view_as=subscriber" title="Vous ne le regreterez pas !" target="_blank">Acheter l’iPhone XS > </a>
+     <a href="https://www.youtube.com/channel/UCq5IlI9YT-Mopm6KrrXJ7DA?view_as=subscriber" title="Vous ne le regreterez pas !" target="_blank">En savoir plus > </a>
 
-# Header 1
-## Header 2
-### Header 3
+     <div class='ycontainer'>
+    <img id="y" src="images/iphone_xr_logo_hero__doak3cl4qzqu_large.png" alt='iPhone XR'>
+    <h3 class="rap" id='yhello'>Un design tout écran. La meilleur autonomie jamais vue sur un iPhone.<br /> Des performances ultra-rapides. Et des photos de qualité studio.</h3>
 
-- Bulleted
-- List
+    <a href="https://www.youtube.com/channel/UCq5IlI9YT-Mopm6KrrXJ7DA?view_as=subscriber" title="Vous ne le regreterez pas !" target="_blank">En savoir plus > </a>
+     <a href="https://www.youtube.com/channel/UCq5IlI9YT-Mopm6KrrXJ7DA?view_as=subscriber" title="Vous ne le regreterez pas !" target="_blank">Acheter > </a>
 
-1. Numbered
-2. List
+ </div>
+     
+     <p>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+     	                                  </p>
 
-### Jekyll Themes
+     <img id="img" src="images/main__bmngiblug0mq_largetall.png" alt='iPhone X'>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SIFRI28/MY-APPLE-SITE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+   <p>
 
-### Support or Contact
+   	  </p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    <div class='ocontainer'>
+
+     <img id="o" src="images/iphone_xs_logo_hero__cao5flrjmvqq_large.png" alt='iPhone XS'>
+     <h3 class="rap" id='ohello'>Le plus grand écran Super Retina jamais vu. Des <br /> performances ultra-rapides grâce à la puce A12 Bionic. <br /> L'authentification faciale la plus sûre avec Face ID. <br /> Et un double appareil photo d'avant-garde avec <br /> Contrôle de la profondeur.</h3>
+         <a href="https://www.youtube.com/channel/UCq5IlI9YT-Mopm6KrrXJ7DA?view_as=subscriber" title="Vous ne le regreterez pas !" target="_blank">En savoir plus > </a>
+     <a href="https://www.youtube.com/channel/UCq5IlI9YT-Mopm6KrrXJ7DA?view_as=subscriber" title="Vous ne le regreterez pas !" target="_blank">Acheter > </a>
+
+<p>
+
+
+
+     	                                  </p>
+
+     <img id="o" src="images/main__bmngiblug0mq_largetall.jpg" alt='iPhone XS'>
+     
+</div>
+
+     <div class='icontainer'>
+
+     <img id="i" src="images/series_4__b539g9eyf22u_large.jpg" alt='iPhone XS'>
+     <h3 id='ihello'>Plus de puissance. Plus de couleurs.</h3>
+
+     <p>
+
+
+
+     	                                  </p>	
+ 
+        <a href="https://www.youtube.com/channel/UCq5IlI9YT-Mopm6KrrXJ7DA?view_as=subscriber" title="Vous ne le regreterez pas !" target="_blank">En savoir plus > </a>
+          <a href="https://www.youtube.com/channel/UCq5IlI9YT-Mopm6KrrXJ7DA?view_as=subscriber" title="Vous ne le regreterez pas !" target="_blank">Acheter > </a>
+<p>
+
+
+
+     	                                  </p>
+    
+    <img id="i" src="images/watch__csqqcayzqueu_largetall.jpg" alt='iPhone XS'>
+
+
+
+
+    </body>
+</html>
